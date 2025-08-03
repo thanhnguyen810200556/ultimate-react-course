@@ -1,2 +1,41 @@
-# ultimate-react-course
-All projects from “The Ultimate React Course 2025” by Jonas Schmedtmann
+# 🧠 The Ultimate React Course 2025 – Projects Collection
+
+Welcome to my project collection from the [Ultimate React Course 2025](https://www.udemy.com/course/the-ultimate-react-course/) by Jonas Schmedtmann. This course covers everything from React fundamentals to advanced topics such as Next.js, Redux, Tailwind CSS, and more.
+
+This repository serves as a central hub linking to each individual project I've built while following the course. Each project has its own GitHub repository and README for more details.
+
+---
+
+## 📂 Project List
+
+| # | Project Name              | Tech Stack                             | Link to Repo |
+|---|---------------------------|----------------------------------------|--------------|
+| 1 | Pizza Menu                | Components, props, JSX                 | [View Repo](https://github.com/yourusername/counter-app) |
+| 2 | Travel List               | useState and state management          | [View Repo](https://github.com/yourusername/expense-tracker) |
+| 3 | Food Ordering App         | useEffect, data fetching, custom hooks | [View Repo](https://github.com/yourusername/food-ordering-app) |
+
+
+*(More projects coming as I progress through the course!)*
+
+---
+
+## 📦 Tech Stack Highlights
+
+- ✅ React (Hooks, Context, Custom Hooks)
+- ✅ Tailwind CSS & Styled Components
+- ✅ React Router
+
+---
+
+## 🚀 Goals
+
+- Apply what I learn through real-world mini projects
+- Build a solid foundation in React and its ecosystem
+- Showcase projects on GitHub with clean structure and documentation
+
+---
+
+## ✨ Credits
+
+- Course by [Jonas Schmedtmann](https://codingheroes.io/)
+- Most designs and core logic follow the course material, unless I’ve made specific changes (which I’ll note).
