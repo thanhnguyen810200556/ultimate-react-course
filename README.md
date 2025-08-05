@@ -11,8 +11,8 @@ This repository serves as a central hub linking to each individual project I've 
 | # | Project Name              | Tech Stack                             | Link to Repo |
 |---|---------------------------|----------------------------------------|--------------|
 | 1 | Pizza Menu                | Components, props, JSX                 | [View Repo](https://github.com/thanhnguyen810200556/react-pizza-menu.git) |
-| 2 | Travel List               | useState and state management          | [View Repo](https://github.com/yourusername/expense-tracker) |
-| 3 | Food Ordering App         | useEffect, data fetching, custom hooks | [View Repo](https://github.com/yourusername/food-ordering-app) |
+| 2 | Travel List               | useState and state management          | [View Repo](https://github.com/thanhnguyen810200556/react-travel-list.git)|
+| 3 | usePopcorn                | useEffect, data fetching, custom hooks | [View Repo](https://github.com/yourusername/food-ordering-app) |
 
 
 *(More projects coming as I progress through the course!)*
