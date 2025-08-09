@@ -2,7 +2,8 @@
 
 Welcome to my project collection from the [Ultimate React Course 2025](https://www.udemy.com/course/the-ultimate-react-course/) by Jonas Schmedtmann. This course covers everything from React fundamentals to advanced topics such as Next.js, Redux, Tailwind CSS, and more.
 
-This repository serves as a central hub linking to all the individual projects I built while following the course. Each project has its own GitHub repository and README for further details.
+This repository serves ass a central hub linking to all the individual projects I built while following the course. Each project has its own Github repository and README for further detauls.
+
 ---
 
 ## 📂 Project List
